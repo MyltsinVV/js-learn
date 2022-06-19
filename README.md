@@ -1,6 +1,6 @@
 # Темы 2021
 1. Strings
-1. Promises2
+1. Promises
 1. Private methods
 1. Logical Assigment
 1. Numbers
